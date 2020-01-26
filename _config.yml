@@ -2,7 +2,7 @@
 title:              박혜원의 블로그 :)
 bio:                '제가 배우고 있고, 관심있는 것들을 올리는 블로그 입니다.'
 description:        "통계, R 또는 Python 프로그래밍에 대하여 글을 쓰는 블로그"
-reading_time:       true
+reading_time:       false
 words_per_minute:   200
 logo:               'assets/img/logo1.png'
 background:         'assets/img/placeholder-big.jpg'
