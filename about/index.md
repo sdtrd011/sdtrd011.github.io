@@ -1,37 +1,23 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: About me
+#tags: [about, Jekyll, theme, moon]
+#date: 2016-03-21
 comments: false
 ---
-    
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+안녕하세요, 박혜원 입니다! 제 블로그에 찾아주셔서 감사합니다 :) 이 블로그는 제가 공부하고 있는 것들이나, 관심 있는 것들을 기록하기 위하여 만들었습니다. 2020년 1월 현재에는 주로 그래피컬 모델과 머신 러닝에 대한 내용을 적어보려고 합니다!      
 
-## Preview
+## Skills
+* R: 저에겐 가장 친숙한 프로그래밍 언어입니다.
+* Python: 가장 최근에 시작한 언어로, 2018년부터 사용하기 시작했습니다.
+* SAS: 올해 안에 Advanced programmer를 따는 게 목표입니다.
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+## Experiences
+* 서울시립대학교 통계학 전공, 경제학 복수전공, 2014.03 ~ 2018.02
+* 서울시립대학교 통계학 석사, 2018.03 ~ 2019.08 (졸업)
+* 데이터 컨설팅 관련 연구원, 2019.06 ~ 2019.12
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
-
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+## Presentations
+* AISTATS 2019 Poster session, 2019.04 : Identifiability of Generalized Hypergeometric Distribution (GHD) Dircected Acyclic Graphical Models
+* 한국통계학회 춘계학술발표회 포스터 발표, 2019.05 : 타자들의 특성 분석을 위한 포아송 방향성 비순환 그래피컬 모델
