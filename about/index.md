@@ -23,7 +23,7 @@ comments: false
 
 ## Presentations
 * AISTATS 2019 Poster session, 2019.04 : Identifiability of Generalized Hypergeometric Distribution (GHD) Dircected Acyclic Graphical Models
-* 한국통계학회 춘계학술발표회 포스터 발표, 2019.05 : 타자들의 특성 분석을 위한 포아송 방향성 비순환 그래피컬 모델 **포스터발표 우수상(3등) **
+* 한국통계학회 춘계학술발표회 포스터 발표, 2019.05 : 타자들의 특성 분석을 위한 포아송 방향성 비순환 그래피컬 모델 **포스터발표 우수상(3등)**
 
 ## Papers
 *  Park, G. and Park, H. (2019). Identifiability of Generalized Hypergeometric Distribution (GHD) Directed Acyclic Graphical Models , *In The 22nd International Conference on Artificial Intelligence and Statistics.*
